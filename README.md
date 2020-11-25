@@ -1,2 +1,2 @@
 # ZTM Gdansk Bus Localizator
- Spring boot application to localizate the bus
+ Spring boot application to localize the bus
