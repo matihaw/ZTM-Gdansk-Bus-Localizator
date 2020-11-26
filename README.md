@@ -1,7 +1,7 @@
 # ZTM Gdansk Bus Localizator
- Spring boot web application to localize the bus.
- 
-### Using ZTM's open [API](https://ckan.multimediagdansk.pl/dataset/tristar)
+#### Using ZTM's open [API](https://ckan.multimediagdansk.pl/dataset/tristar)
+
+Spring boot web application to localize the bus. 
 
 ## Functionality:
 * Placint a pin on a map with numer of bus line on its location. 
