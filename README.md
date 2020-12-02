@@ -4,5 +4,5 @@
 Spring boot web application to localize the bus. 
 
 ## Functionality:
-* Placint a pin on a map with numer of bus line on its location. 
+* Placing a pin on a map with number of bus line on its location. 
 
